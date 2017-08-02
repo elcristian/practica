@@ -4,8 +4,13 @@ function getUser(id:entero):string
 
 line code 1 
 
-line code 2
+line code 1
+
+line code 4
  
 linecode 3
+
+
+line code 4
 
 fin function
